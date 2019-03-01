@@ -25,6 +25,8 @@ Open the `config.js` file in your project and set the `apiKey`, `apiSecret`, `si
   };
 ```
 
+You should use your OpenTok Key and Secret as the `apiKey` and `apiSecret` values and your Nexmo API Key as the sip `username` and Nexmo API Secret as the sip `password`
+
 ## Setting up OpenTok & Nexmo projects
   For OpenTok:
   * Create an API Project to get the API Key and Secret.
